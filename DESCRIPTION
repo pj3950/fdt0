@@ -1,10 +1,12 @@
-Package: fatigueapps
+Package: fdt0
 Type: Package
-Title: Shiny Apps for Fatigue and load analysis
+Title: Auxiliary functions for "Shiny Fatigue Design Tool"
 Version: 0.1.0
 Author: Pär Johannesson
 Maintainer: Pär Johannesson <Par.Johannesson@gmail.com>
-Description: Shiny Apps for fatigue and load analysis including rainflow cycles. 
+Description: Auxiliary functions for "Shiny Fatigue Design Tool" 
+Imports:
+    shiny
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
